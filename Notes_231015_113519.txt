@@ -1,0 +1,3 @@
+Era uma vez uma próspera loja de computadores e acessórios chamada "Tech Haven". Tech Haven era conhecida por oferecer uma ampla variedade de produtos de alta qualidade, desde computadores desktop e laptops até periféricos como teclados, mouses e monitores. Eles também vendiam componentes internos, como placas de vídeo e discos rígidos, para entusiastas de tecnologia.
+
+O dono da Tech Haven, um empreendedor chamado David, cuidadosamente organizou seu negócio e utilizou um sistema de banco de dados para gerenciar todas as operações da loja facilitando a organização do seu estabelecimento.
